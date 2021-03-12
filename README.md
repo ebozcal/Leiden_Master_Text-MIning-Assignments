@@ -1,1 +1,1 @@
-# Leiden_Master_Text-MIning-Assignments
+# Text-Mining-Assignments
